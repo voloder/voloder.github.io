@@ -6,7 +6,7 @@ Konjic Discover ("we," "our," or "us") respects your privacy and is committed to
 Konjic Discover does not collect any personal information or data from its users. We do not require you to provide any personal information to use our application.
 
 ## Firebase Backend Usage
-Konjic Discover utilizes Firebase solely for the purpose of displaying information within the application. Firebase may collect certain non-personal information such as device information, usage statistics, and cookies to provide its services. However, Konjic Discover does not have access to or collect any of this information. For more details, please review Firebase's Privacy Policy.
+Konjic Discover utilizes Firebase solely for the purpose of displaying information within the application. Firebase may collect certain non-personal information such as device information, usage statistics, and cookies to provide its services. However, Konjic Discover does not have access to or collect any of this information. For more details, please review [Firebase's Privacy Policy](https://firebase.google.com/support/privacy).
 
 ## Third-party Links
 Konjic Discover may contain links to third-party websites or services that are not operated by us. Please note that we have no control over the content or practices of these websites and cannot be responsible for the protection and privacy of any information which you provide while visiting such sites. We encourage you to review the privacy policies of any third-party sites you visit.
@@ -22,6 +22,6 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 Developer:\
 Admir Voloder\
-Email: admirvoloder@gmail.com
+Email: [admirvoloder@gmail.com](mailto:admirvoloder@gmail.com)
 
 ### By using Konjic Discover, you signify your acceptance of this Privacy Policy. If you do not agree to this policy, please do not use our application.
