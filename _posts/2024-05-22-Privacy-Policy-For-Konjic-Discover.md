@@ -1,3 +1,7 @@
+---
+permalink: konjic-discover-privacy
+---
+
 # Privacy Policy
 
 Konjic Discover ("we," "our," or "us") respects your privacy and is committed to protecting any information that you may provide while using our mobile application. This Privacy Policy outlines the types of personal information that is received and collected by Konjic Discover and how it is used. This policy is available on our app’s store listing page in the Play Console and within the app itself.
